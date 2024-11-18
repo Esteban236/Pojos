@@ -16,7 +16,7 @@ public class LugarAdopcion {
 
     }
 
-    // Métodos Get y Set
+    // Getters y Setters
 
     public String getNombre() {
         return nombre;

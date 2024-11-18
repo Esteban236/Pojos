@@ -14,7 +14,7 @@ public class CentroAdopcion {
         this.capacidadMaxima = 0;
     }
 
-    // Getters y Setters
+    //Getters y Setters
     public String getDireccion() {
         return direccion;
     }

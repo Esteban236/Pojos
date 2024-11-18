@@ -19,7 +19,7 @@ public class SolicitudTemporal {
     }
 
 
-    // Métodos Get y Set
+    // Getters y Setters
 
     public int getDuracionDias() {
         return duracionDias;

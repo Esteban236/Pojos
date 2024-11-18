@@ -7,7 +7,7 @@ public class Usuario {
     private String nombre;
     private int edad;
 
-    // Constructor predeterminado
+    // Constructor
     public Usuario() {
         this.idUsuario = 0;
         this.nombre = "";
@@ -15,7 +15,7 @@ public class Usuario {
 
     }
 
-    // Métodos Get y Set
+    // Getters y Setters
     public int getIdUsuario() {
         return idUsuario;
     }

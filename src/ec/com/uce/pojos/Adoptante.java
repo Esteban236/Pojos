@@ -18,7 +18,7 @@ public class Adoptante {
         this.ocupacion = "";
     }
 
-
+    // Getters y Setters
     public String getDireccion() {
         return direccion;
     }

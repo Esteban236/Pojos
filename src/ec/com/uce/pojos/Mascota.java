@@ -18,7 +18,7 @@ public class Mascota {
 
     }
 
-    // Métodos Get y Set
+    // Getters y Setters
     public String getNombre() {
         return nombre;
     }

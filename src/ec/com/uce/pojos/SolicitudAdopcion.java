@@ -16,7 +16,7 @@ public class SolicitudAdopcion {
         this.mascota = "";
     }
 
-    // Métodos Get y Set
+    // Getters y Setters
 
     public String getFecha() {
         return fecha;
